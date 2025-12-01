@@ -1,21 +1,4 @@
-Bhai yeh lo **complete video–ready notes** — bilkul structured, clean, step-by-step, jese tum apni video me use kar sakte ho.
-Isme:
-
-✔ Required cheezon ki list
-✔ Check commands
-✔ Install status ke outputs
-✔ Full setup guide (Windows)
-✔ Comments ready for video narration
-
-Ye content seedha video script ke notes ban jayega.
-
----
-
-# 🎥 **CLAUDE-CODE + GEMINI COMPLETE WINDOWS SETUP (VIDEO NOTES)**
-
-*Best for YouTube explanation + students + training.*
-
----
+# 🎥 **CLAUDE-CODE + GEMINI COMPLETE WINDOWS SETUP**
 
 # ▓ REQUIREMENTS (TOTAL: 6 CHEEZAY)
 
@@ -34,8 +17,6 @@ Ye content seedha video script ke notes ban jayega.
 ---
 
 # ▓ REQUIREMENTS CHECK (BEFORE INSTALLATION)
-
-Ye commands video me run karke check dikhana.
 
 ---
 
@@ -171,8 +152,6 @@ C:\Program Files\Git\bin\bash.exe
 ---
 
 # ▓ FULL SETUP GUIDE (WINDOWS) — STEP BY STEP
-
-*Yeh part video me clearly, slowly explain karna.*
 
 ---
 
@@ -374,13 +353,3 @@ Agar reply aaye →
 **Congratulations! Claude Code + Gemini working FREE!!**
 
 ---
-
-# 💡 If you want I can also make:
-
-✔ A short version
-✔ Thumbnail text
-✔ Script for your speaking
-✔ On-screen text list
-✔ Full PDF notes for download
-
-Just tell me bhai.
